@@ -300,9 +300,8 @@ h6 {
 /* room */
 .room {
   box-shadow: var(--lightShadow);
-  height: 290px;
-  width: 450px;
-  margin: 20px;
+
+  margin: 2vh;
   transition: var(--mainTransition);
 }
 .room:hover {
