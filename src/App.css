@@ -300,7 +300,6 @@ h6 {
 /* room */
 .room {
   box-shadow: var(--lightShadow);
-
   margin: 2vh;
   transition: var(--mainTransition);
 }
