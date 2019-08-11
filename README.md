@@ -66,3 +66,35 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Curently Working with Local Data
+
+This Causes issues in netlify hostings, and increase the trouble of adding new data. Solution for this problem is to Sent the data file to server and fetch from there, we can use JSON server, but I am going to use Contentful for now, it is somewhat troble some to added data on the site, but after that it is easy to add and modify data requirement.
+
+### You should learn the following before understanding this project, if you are a beginner
+
+React
+React-Router
+React Fragment
+React Router Dom and why it not work with netlify
+Race Condition error in npm installation
+React Icons
+Variable in Path name using Slugs
+Error in Path
+React context
+React Hooks
+Importance of Quotations
+Props.type and related properties
+How to match parameters in js
+Style Components
+Higher order Components
+Fit vs Fill in CSS
+Onchange Handlers
+Event.Handlers
+Unique Value Setup
+Boilter Plate
+Effective Call Back function
+
+### Do Read and understand the CSS used before anything, That will help you out
+
+## ISSUE -- Home Page Thumbnails not Aligned
